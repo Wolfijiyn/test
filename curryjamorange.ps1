@@ -1515,5 +1515,3 @@ class MainClass
 }
 
 "@;
-
-This paste expires in <1 day. Public IP access. Share whatever you see with others in seconds with Context.Terms of ServiceReport this
